@@ -1,1 +1,7 @@
 Hello world
+
+print("hello world")
+
+this is git
+
+Even hitler was
